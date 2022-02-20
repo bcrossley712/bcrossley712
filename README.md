@@ -3,7 +3,7 @@ First and foremost I am a loving husband and father of 4 children!  I say this f
 
 Since high school and the late 90's, wow I just said that...😂, I have entertained quite a few different jobs from fast food 🌮, banking 🏧, and even plumbing 🚽.  Although dabbling in those fields, I spent most of my years since then in the retail and customer service industry.  Even though I spent so many years in unrelated fields, my passion for knowledge and logical problem solving was never quelled.  I have always enjoyed working with computers and the programs within to accomplish different tasks.
 
-Now getting the opportunity to join Boise Code Works full stack boot camp has given me a great opportunity and has been a wonderful experience.  It has renewed my love of working my brain to solve complex issues.  I'm looking forward to gaining all the knowledge needed to pursue work within this field that I've found so enjoyable!
+Now getting the opportunity to join Boise CodeWorks full stack boot camp has given me a great opportunity and has been a wonderful experience.  It has renewed my love of working my brain to solve complex issues.  I'm looking forward to gaining all the knowledge needed to pursue work within this field that I've found so enjoyable!
 
 - 🌱 I’m currently learning: JavaScript, HTML, CSS/bootstrap
 
