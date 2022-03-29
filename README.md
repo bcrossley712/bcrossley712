@@ -8,6 +8,7 @@ Now getting the opportunity to join Boise CodeWorks full stack boot camp has giv
 - 🌱 I’m currently learning: Vue, Node, C#, JavaScript, HTML, CSS/bootstrap
 
 📫 How to reach me: 
+- LinkedIn - https://www.linkedin.com/in/briancrossleydev/
 - Slack - @bcrossley712
 - Email - bcrossley712@gmail.com
 
