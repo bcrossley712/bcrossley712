@@ -5,7 +5,7 @@ Since high school and the late 90's, wow I just said that...😂, I have enterta
 
 Now getting the opportunity to join Boise CodeWorks full stack boot camp has given me a great opportunity and has been a wonderful experience.  It has renewed my love of working my brain to solve complex issues.  I'm looking forward to gaining all the knowledge needed to pursue work within this field that I've found so enjoyable!
 
-- 🌱 I’m currently learning: Vue, Node, C#, JavaScript, HTML, CSS/bootstrap
+- 🌱 I’ve learned: Vue, Node, C#, MySQL, JavaScript, HTML, CSS/bootstrap
 
 📫 How to reach me: 
 - LinkedIn - https://www.linkedin.com/in/briancrossleydev/
